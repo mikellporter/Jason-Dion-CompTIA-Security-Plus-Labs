@@ -89,13 +89,13 @@ Based on the **Dion Training — "CompTIA Security+ (SY0-701) Labs Only"** cours
 
 Overall course completion: **20%** (per Dion Training dashboard)
 
-| Domain | Labs Completed | Notes Reviewed | Practice Exam Score |
-|--------|----------------|-----------------|----------------------|
-| 1 — General Security Concepts | 2 / 3 | ☐ | — |
-| 2 — Threats, Vulnerabilities & Mitigations | 2 / 4 | ☐ | — |
-| 3 — Security Architecture | 0 / 4 | ☐ | — |
-| 4 — Security Operations | 0 / 8 | ☐ | — |
-| Wrap-Up | 0 / 1 | ☐ | — |
+| Domain | Labs Completed |
+|--------|----------------|
+| 1 — General Security Concepts | 2 / 3 |
+| 2 — Threats, Vulnerabilities & Mitigations | 2 / 4 |
+| 3 — Security Architecture | 0 / 4 |
+| 4 — Security Operations | 0 / 8 |
+| Wrap-Up | 0 / 1 |
 
 ---
 
@@ -103,8 +103,6 @@ Overall course completion: **20%** (per Dion Training dashboard)
 
 - [CompTIA Security+ SY0-701 Official Exam Objectives](https://www.comptia.org/certifications/security)
 - Jason Dion's Security+ Course (Udemy)
-- [Professor Messer Security+ Notes](https://www.professormesser.com/security-plus/sy0-701/sy0-701-training-course/)
-- [TryHackMe — Jr Penetration Tester / SOC Level 1 paths](https://tryhackme.com/)
 
 ---
 
